@@ -7,7 +7,7 @@ const CourseCard = (props) => {
         <div>
             <CardGroup>
                 <Card>
-                    <Card.Img className='p-3' variant="top" src={picture} height='380px' fluid rounded/>
+                    <Card.Img className='p-3' variant="top" src={picture} height='380px' fluid="true" rounded="true"/>
                     <Card.Body>
                         <Card.Title>{name}</Card.Title>
                         <Card.Text>
