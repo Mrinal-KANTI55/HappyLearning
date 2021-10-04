@@ -12,6 +12,7 @@ const Courses = () => {
     },[]);
     return (
         <div >
+            {/* it show us each courch information to our use  */}
             <Row xs={1} sm={2} md={3} className="g-4 mt-5">
             {
               courses.map(course=> <Course 
