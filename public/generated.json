@@ -1,0 +1,58 @@
+[
+  {
+    "_id": "615a64aabc87154d17db2a1c",
+    "price": "199",
+    "picture": "https://play-lh.googleusercontent.com/85WnuKkqDY4gf6tndeL4_Ng5vgRk7PTfmpI4vHMIosyq6XQ7ZGDXNtYG2s0b09kJMw=s1200",
+    "name": "HTML 5",
+    "address": "370 Judge Street, Golconda, District Of Columbia, 1740"
+  },
+  {
+    "_id": "615a64aa43fd87054ad45e6c",
+    "price": "183",
+    "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png",
+    "name": "CSS 5",
+    "address": "714 Willow Street, Celeryville, Mississippi, 3381"
+  },
+  {
+    "_id": "615a64aa3260eab19949f401",
+    "price": "115",
+    "picture": "https://getbootstrap.com/docs/5.1/assets/img/bootstrap-icons.png",
+    "name": "Bootstrap",
+    "address": "959 Whitwell Place, Croom, Wisconsin, 5814"
+  },
+  {
+    "_id": "615a64aa6d655a870333702b",
+    "price": "119",
+    "picture": "https://laravelnews.imgix.net/images/tailwindcss.png?ixlib=php-3.3.1",
+    "name": "Tailwind CSS",
+    "address": "361 Monitor Street, Hiko, South Carolina, 9531"
+  },
+  {
+    "_id": "615a64aac06d08a5b9b4284e",
+    "price": "170.04",
+    "picture": "https://www.w3schools.com/whatis/img_js.png",
+    "name": "JavaScript",
+    "address": "150 Herkimer Place, Clarksburg, Oklahoma, 8695"
+  },
+  {
+    "_id": "615a64aa224e683fa34a8d94",
+    "price": "157.68",
+    "picture": "https://www.edureka.co/blog/wp-content/uploads/2019/11/typescript-logo-528x194.png",
+    "name": "TypeScript",
+    "address": "937 Highland Place, Maplewood, Marshall Islands, 6827"
+  },
+  {
+    "_id": "615a64aaf4fac237f6c84a87",
+    "price": "157.84",
+    "picture": "https://www.freecodecamp.org/news/content/images/2021/06/Ekran-Resmi-2019-11-18-18.08.13.png",
+    "name": "React",
+    "address": "764 Dwight Street, Eagletown, Arizona, 4955"
+  },
+  {
+    "_id": "615a64aae08ddf6f0058428b",
+    "price": "178.23",
+    "picture": "https://www.bloorresearch.com/wp-content/uploads/2013/03/MONGO-DB-logo-300x470--x.png",
+    "name": "MongoDB",
+    "address": "356 Schroeders Avenue, Skyland, Iowa, 9701"
+  }
+]
