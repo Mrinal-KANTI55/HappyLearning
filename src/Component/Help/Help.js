@@ -5,6 +5,7 @@ import { Form } from 'react-bootstrap';
 const Help = () => {
     return (
         <div>
+            {/* add another section for help  */}
             <h3 className='my-3'>For  Help Contact Us</h3>
             <div >
             <Form className='w-50 mt-5'>

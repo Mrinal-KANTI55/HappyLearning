@@ -3,6 +3,7 @@ import React from 'react';
 const About = () => {
     return (
         <div>
+            {/* here we some word about our site  */}
             <div className='p-5'>
                 <h2>About Us</h2>
                 <p>

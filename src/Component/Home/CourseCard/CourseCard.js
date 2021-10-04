@@ -5,6 +5,7 @@ const CourseCard = (props) => {
     const { price, picture, name, address } = props.course;
     return (
         <div>
+            {/* show here home page courses  */}
             <CardGroup>
                 <Card>
                     <Card.Img className='p-3' variant="top" src={picture} height='380px' fluid="true" rounded="true"/>
