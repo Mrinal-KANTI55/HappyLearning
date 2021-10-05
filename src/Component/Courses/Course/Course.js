@@ -1,5 +1,5 @@
 import React from 'react';
-import { Card, CardGroup } from 'react-bootstrap';
+import { Button, Card, CardGroup } from 'react-bootstrap';
 
 const Course = (props) => {
     const { price, picture, name, address } = props.course;
@@ -13,6 +13,7 @@ const Course = (props) => {
                         <Card.Text>
                             If you want to do some thing new or creative then welcome to our {name} course at <span className='text-danger'>${price}</span>  in our address: {address} 
                         </Card.Text>
+                        <Button className='btn btn-outline-warning' >Enroll Now</Button>
                     </Card.Body>
                 </Card>
             </CardGroup>

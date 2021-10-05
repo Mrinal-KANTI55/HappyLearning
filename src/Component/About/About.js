@@ -3,7 +3,7 @@ import React from 'react';
 const About = () => {
     return (
         <div>
-            {/* here we some word about our site  */}
+            {/* here we some word about our site */}
             <div className='p-5'>
                 <h2>About Us</h2>
                 <p>
@@ -11,7 +11,7 @@ const About = () => {
 
                     With the fast paced nature of technology, developers can no longer become experts in aspects of development, but now must learn the entire process of development from design to actual deployment. This has introduced a new role for developers – Full Stack Developers. <br />
 
-                    <span className='text-danger'>What are Full Stack Developers?</span><br />
+                    <span className='text-danger fs-3'>What are Full Stack Developers?</span><br />
 
                     Full Stack Developers are developers that design complete apps and websites. These developers work on all facets of development, from frontend, to backend, to database and even debugging and testing. In short, the developer must understand the app through and through. Frontend developers are more sought after because of their expertise of not in one but multiple technologies. They can handle all aspects of development, and it can result in a more seamlessly created product.
 
