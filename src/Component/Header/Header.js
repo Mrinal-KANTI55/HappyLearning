@@ -6,7 +6,7 @@ const Header = () => {
         <div>
            <Navbar bg="dark" variant="dark">
                 <Container>
-                <Link class="navbar-brand me-5 fs-3" to="#">Happy Learning</Link>    
+                <Link className="navbar-brand me-5 fs-3" to="#">Happy Learning</Link>    
                     <Nav className="me-auto">
                         <Link className='text-light text-decoration-none me-3' to="/home">Home</Link>
                         <Link className='text-light text-decoration-none me-3' to="/courses">Courses</Link>
