@@ -1,6 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import { Col, Image, Row } from 'react-bootstrap';
 import CourseCard from './CourseCard/CourseCard';
+import NoCourse from './CourseCard/NoCourse';
 
 const Home = () => {
     // fetch the fack data 
@@ -36,6 +37,8 @@ const Home = () => {
                             key={course._id}
                             course={course}
                         ></CourseCard>
+                    }else{
+                        return <NoCourse key={course._id}></NoCourse>
                     }
 
                 })

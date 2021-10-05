@@ -7,7 +7,7 @@ const Help = () => {
         <div>
             {/* add another section for help  */}
             <h3 className='my-3'>For  Help Contact Us</h3>
-            <div >
+            <div className='d-flex justify-content-center'>
             <Form className='w-50 mt-5'>
                 <Form.Group className="mb-3" controlId="exampleForm.ControlInput1">
                     <Form.Label>Email address</Form.Label>
